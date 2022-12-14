@@ -246,6 +246,6 @@ if submit:
     st.write(f"The probability that you use LinkedIn is {probability[0][1]}")
 
     
- st.write("By Nader Ghiassi")
+st.write("By Nader Ghiassi")
 
 # %%
