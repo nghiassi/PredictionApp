@@ -245,5 +245,7 @@ if submit:
     st.write(f"I think you are {classification}")
     st.write(f"The probability that you use LinkedIn is {probability[0][1]}")
 
+    
+ st.write("By Nader Ghiassi")
 
 # %%
