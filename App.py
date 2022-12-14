@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os
+pip install -U scikit-learn
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
